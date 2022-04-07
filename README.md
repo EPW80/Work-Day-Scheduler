@@ -1,13 +1,13 @@
 # Work Day Scheduler
 
 ## Purpose
-The purpose of this program is to generate a password that will consist of random characters. After generation the random password will be automatically displayed back to the user. Along with the password is a styled user interface to keep the user intrigued visually.
+This program will allow the user to schedule tasks thruout their day hourly.
 
 ## Built With
 * HTML
 * CSS
 * JavaScript
-* Bootstrap
+* jQuery
 
 ## Website
 https://github.com/EPW80/Work-Day-Scheduler.git
@@ -17,11 +17,11 @@ https://epw80.github.io/Work-Day-Scheduler/
 
 ## Mock-up
 
-![Password-Generator: Erik Williams](/assets/images/jsImage.png)
+![Work-Day-Scheduler: Erik Williams](/assets/image/workDayScheduler.png)
 
 ## Challenges 
-I came across a few challenges making this password generator.  I had a hard time trying to figure out how to make sure the user entered a password length between 8 and 128 characters. also, there was a m inor syntax error within the javascript that did not allow me to run code properly. The problem was solved once I researched on-line JS documentation on syntax and template literals.
-
+The challenge I came into was linking different sections of Javascript code to HTML. I overcame that by using
+Google to find my solution. I also learned new CSS styling techniques such as ":root".
 
 ## Contribution:
 Crafted by [Erik Williams]

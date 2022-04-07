@@ -2,7 +2,7 @@
 var currentDate =
   moment().format("dddd") + " " + moment().format("Do MMM YYYY");
 var currentHour = moment().format("h:mm:ss a");
-// Text hour var
+// hour
 var nineAm = $("#9am");
 var tenAm = $("#10am");
 var elevenAm = $("#11am");
@@ -20,8 +20,7 @@ var userInput;
 var hourSpan;
 // var hourString = $(".hour").text().split(" ");
 
-// Date and Hour
-
+// date and hour
 var interval = setInterval(function () {
   var momentNow = moment();
   $("#currentDay").html(
