@@ -1,13 +1,12 @@
 # Work Day Scheduler
 
 ## Purpose
-This program will allow the user to schedule tasks thruout their day hourly.
+This program will allow the user to schedule tasks thruout their day hourly. This would be the first project including "moment.js".
 
 ## Built With
 * HTML
 * CSS
 * JavaScript
-* jQuery
 
 ## Website
 https://github.com/EPW80/Work-Day-Scheduler.git
@@ -24,9 +23,9 @@ The challenge I came into was linking different sections of Javascript code to H
 Google to find my solution. I also learned new CSS styling techniques such as ":root".
 
 ## Contribution:
-Crafted by [Erik Williams]
+Erik Williams
 
 ## License
-All code on this site is copyright Erik Williams - 2022
+Erik Williams - 2022
 
 #### ©️2022 EPW
